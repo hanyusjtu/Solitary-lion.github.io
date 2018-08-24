@@ -7,9 +7,9 @@ title: Research
 
 - <b>Research topic 1 | Highly efficient TiO2 photocatalyst coating modified nonwoven fabrics for degrading indoor volatile organic compounds &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&nbsp;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2016.5-2017.6</b>
 
-  Research Assistant, Advisor: Xufang Qian (Associate Professor of Environmental Science and Engineering School, Shanghai Jiao Tong   University)
+  Research Assistant, Advisor: <b>Xufang Qian</b> (Associate Professor of Environmental Science and Engineering School, <b>Shanghai Jiao Tong   University)</b>
 
-Currently participating a project called Isoform Quantification via Single-Cell RNA-Sequencing in Scalable Analytics Institute, UCLA under Prof. Wei Wang’s supervision. I’m in charge of the algorithm development section of genome alignment results transformation. 
+	Improved the ultraviolet light and visible light photocatalytic activity of TiO2 nanoparticles by doping [Mo3S13]2- and carbon quantum dots, respectively.
 
 - Web Server  , March 2018 - July 2018
 
