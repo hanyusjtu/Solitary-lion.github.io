@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /pp/index.html
-title: PP
+title: Publications
 ---
 
 ### D
