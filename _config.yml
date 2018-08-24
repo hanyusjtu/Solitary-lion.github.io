@@ -31,14 +31,16 @@ bing_verify:
 links:
   - title: About Me
     url: /
+  - title: Education
+    url: /education/
   - title: Publications & Patents
     url: /pubilcations & patents/
   - title: Research
     url: /research/
-  - title: Education
-    url: /education/
   - title: Awards
     url: /awards/
+  - title: Skills
+    url: /skills/
   - title: Extra
     url: /extra/
 
