@@ -5,7 +5,7 @@ title: Research
 ---
 ### Research Experience
 
-- Research topic 1 | Highly efficient TiO2 photocatalyst coating modified nonwoven fabrics for degrading indoor volatile organic compounds	2016.5-2017.6
+- Research topic 1 | Highly efficient TiO2 photocatalyst coating modified nonwoven fabrics for degrading indoor volatile organic compounds	                    2016.5-2017.6
 
 Currently participating a project called Isoform Quantification via Single-Cell RNA-Sequencing in Scalable Analytics Institute, UCLA under Prof. Wei Wang’s supervision. I’m in charge of the algorithm development section of genome alignment results transformation. 
 
