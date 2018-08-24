@@ -5,7 +5,7 @@ title: Research
 ---
 ### Research Experience
 
-- <b>Research topic 1 | Highly efficient TiO2 photocatalyst coating modified nonwoven fabrics for degrading indoor volatile organic compounds	                    ，    &#160; &#160;&#160;&#160;&#160;2016.5-2017.6</b>
+- <b>Research topic 1 | Highly efficient TiO2 photocatalyst coating modified nonwoven fabrics for degrading indoor volatile organic compounds, &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2016.5-2017.6</b>
 
   Research Assistant, Advisor: Xufang Qian (Associate Professor of Environmental Science and Engineering School, Shanghai Jiao Tong   University)
 
