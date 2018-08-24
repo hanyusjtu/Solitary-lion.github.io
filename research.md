@@ -5,9 +5,9 @@ title: Research
 ---
 ### Research Experience
 
-<b>Research topic 1 | Highly efficient TiO<sub>2</sub> photocatalyst coating modified nonwoven fabrics for degrading indoor volatile organic compounds &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&nbsp;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2016.5-2017.6</b><br>Research Assistant,Advisor: <b>Xufang Qian</b> (Associate Professor of Environmental Science and Engineering School, <b>Shanghai Jiao Tong   University</b>)
+- <b>Research topic 1 | Highly efficient TiO<sub>2</sub> photocatalyst coating modified nonwoven fabrics for degrading indoor volatile organic compounds &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&nbsp;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2016.5-2017.6</b><br>Research Assistant,Advisor: <b>Xufang Qian</b> (Associate Professor of Environmental Science and Engineering School, <b>Shanghai Jiao Tong   University</b>)
 
-&nbsp;&nbsp;Improved the ultraviolet<hr> light and visible light photocatalytic activity of TiO<sub>2</sub> nanoparticles by doping- [Mo<sub>3</sub>S<sub>13</sub>]<sup>2-</sup> and carbon quantum dots, respectively.
+&nbsp;&nbsp;Improved the ultraviolet light and visible light photocatalytic activity of TiO<sub>2</sub> nanoparticles by doping- [Mo<sub>3</sub>S<sub>13</sub>]<sup>2-</sup> and carbon quantum dots, respectively.
 
 - Web Server  , March 2018 - July 2018
 
