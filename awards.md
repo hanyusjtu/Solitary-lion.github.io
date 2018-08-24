@@ -5,13 +5,13 @@ title: Awards
 ---
 ### Awards & Sholarships
 
-- CSST scholarship in UCLA, 2018
+- National Scholarship (Highest honor in Environmental Science and Engineering School), 2017
 
-- Merit Student Award of Shanghai Jiao Tong University, 2016 and 2017
+- Xie Xin Research Schalorship, 2017
 
-- National Scholarship, 2017
+- Shanghai Jiao Tong University A-Class Scholarship, 2017
 
-- Tang Lixin Scholarship, 2017
+- Second Prize in 29th National Mathematic Olympics Contest, 2014
 
-- Shanghai Jiao Tong B-class Scholarship, 2016
+
 
