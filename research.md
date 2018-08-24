@@ -11,7 +11,7 @@ title: Research
 
 - <b>Research topic 2 | High-Energy Li-Ion Batteries with Fast-Charging Capability	2017.12-2018.7</b><br>Research Assistant, Advisor: <b>Yunhang Hu</b> (Chair Professor of Environmental Science and Engineering School, <b>Shanghai Jiao Tong University</b>)
 
-&nbsp;&nbsp;(1)&nbsp;Independently prepared LiNi1/3Co1/3Mn1/3O2 coated with amorphous lithium fast ion conductor Li2O-2B2O3 and layered MoS2, which improved the lithium ion transportation and electrons transportation, respectively.<br>&nbsp;&nbsp;(2)&nbsp;Used the 3D graphene as the anode, which could absorb more electrolyte, to further improve the lithium ion transportation.<br>&nbsp;&nbsp;(3)&nbsp;Evaluated the novel lithium-ion battery, which shows incredible faster charging capability.
+&nbsp;&nbsp;(1)&nbsp;Independently prepared LiNi<sub>1/3</sub>Co<sub>1/3</sub>Mn<sub>1/3</sub>O<sub>2</sub> coated with amorphous lithium fast ion conductor Li<sub>2</sub>O-2B<sub>2</sub>O<sub>3</sub> and layered MoS<sub>2</sub>, which improved the lithium ion transportation and electrons transportation, respectively.<br>&nbsp;&nbsp;(2)&nbsp;Used the 3D graphene as the anode, which could absorb more electrolyte, to further improve the lithium ion transportation.<br>&nbsp;&nbsp;(3)&nbsp;Evaluated the novel lithium-ion battery, which shows incredible faster charging capability.
 
 - Web Development & Data Collection & Model Construction  , March 2017 - March 2018
 
