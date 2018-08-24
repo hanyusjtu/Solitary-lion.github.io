@@ -1,22 +1,18 @@
 ---
 layout: page
 permalink: /extra/index.html
-title: Extra
+title: Work Experience
 ---
-### In life
+### Work Experience
 
-- Sports Zealot
+- <b>Shanghai Jiao Tong University Table Tennis Association | Competition Minister	2016.9-2017.9</b>
 
-Basketball(school team player), Badminton, Volleyball, Hiking, Cycling, Long-range runnning...
-<img src="/images/basb.JPG" class="floatpic" width="330" height="230">
+&nbsp;&nbsp;Planned and organized the 2016 Shanghai Jiao Tong University “Freshmen Cup” Table Tennis Competition in 2016 fall semester and the 2017 Shanghai Jiao Tong University “Challenge Cup” Table tennis competition in 2017 spring semester
 
-- Student activities
+- <b>Monitor of Class 1 in Environmental Science and Engineering School	2017.9-Present</b>
 
-As vice president of the student union of School of Life Science and Biotechnology during 2016 and 2017. I have planned and organized various activities like Adelaide foreign students party, Christmas party in my school, Debate Competition that covered several universities, Microworld Creative Design and Art Competition that covered 10 universities in East China, and so on.
+&nbsp;&nbsp;Organized the entire class to participate in the “Class Style Competition” and obtained an excellent result, which is highly  evaluated  by our department
 
-- Movie Superfans
-
-Only god can count how many movies I've watched in these years...
 
 
 
