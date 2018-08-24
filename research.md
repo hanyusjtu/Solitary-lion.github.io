@@ -7,7 +7,7 @@ title: Research
 
 - <b>Research topic 1 | Highly efficient TiO2 photocatalyst coating modified nonwoven fabrics for degrading indoor volatile organic compounds &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&nbsp;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2016.5-2017.6</b><br>Research Assistant,Advisor: <b>Xufang Qian</b> (Associate Professor of Environmental Science and Engineering School, <b>Shanghai Jiao Tong   University</b>)
 
-Improved the ultraviolet light and visible light photocatalytic activity of TiO2 nanoparticles by doping- [Mo3S13]2- and carbon quantum dots, respectively.
+   Improved the ultraviolet light and visible light photocatalytic activity of TiO2 nanoparticles by doping- [Mo3S13]2- and carbon quantum dots, respectively.
 
 - Web Server  , March 2018 - July 2018
 
