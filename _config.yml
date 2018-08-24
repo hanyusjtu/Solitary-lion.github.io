@@ -1,8 +1,8 @@
-title: Junchen Yang
+title: Yu Han
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: https://jcyang.net
+url: https://Solitary-lion.github.io
 
 # Owner/author information
 owner:
@@ -31,8 +31,8 @@ bing_verify:
 links:
   - title: About Me
     url: /
-  - title: Research
-    url: /research/
+  - title: Publications & Patents
+    url: /pubilcations & patents/
   - title: Skills
     url: /skills/
   - title: Education
