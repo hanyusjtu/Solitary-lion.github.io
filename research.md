@@ -9,7 +9,7 @@ title: Research
 
 Research Assistant, Advisor: <b>Xufang Qian</b> (Associate Professor of Environmental Science and Engineering School, <b>Shanghai Jiao Tong   University</b>)
 
---	Improved the ultraviolet light and visible light photocatalytic activity of TiO2 nanoparticles by doping- [Mo3S13]2- and carbon quantum dots, respectively.
+Improved the ultraviolet light and visible light photocatalytic activity of TiO2 nanoparticles by doping- [Mo3S13]2- and carbon quantum dots, respectively.
 
 - Web Server  , March 2018 - July 2018
 
