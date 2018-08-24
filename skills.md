@@ -3,10 +3,10 @@ layout: page
 permalink: /skills/index.html
 title: Skills
 ---
-### Programming Languages
-- Proficient: Python, C++，bash environment
+### Research
+- Proficient: XRD, XPS, TEM, SEM, ICP, EIS
 
-- Familiar: R, html, CSS, JavaScript
+- Familiar: Avogadro(molecule editor and visualizer), Quantum Esspresso
 
-### Framework
-Django
+### Programming Language
+- C/C++
