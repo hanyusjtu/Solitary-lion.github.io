@@ -6,7 +6,7 @@ title: Publications
 
 ### Publications
 
-- <b>Y. Han,</b> D. Yue, M. Kan, Y. Wu, J. Zeng, X. Qian, Y. Zhao,"[Mo<sub>3</sub>S<sub>13</sub>]<sup>2-</sup> nanocluster modified TiO<sub>2</sub> immobilizing on non-woven fabric photocatalysts for efficient mineralization of acetone",<em>Catal. Today</em>.(Submission No: CATTOD_2018_664)
+- <b>Y. Han,</b> D. Yue, M. Kan, Y. Wu, J. Zeng, X. Qian, Y. Zhao,“[Mo<sub>3</sub>S<sub>13</sub>]<sup>2-</sup> nanocluster modified TiO<sub>2</sub> immobilizing on non-woven fabric photocatalysts for efficient mineralization of acetone”, <em>Catal. Today</em>.  (Submission No: CATTOD_2018_664)
 
 - X. Qian, M. Ren, Y. Zhu, D. Yue, <b>Y. Han,</b> J. Jia, Y. Zhao,“Visible Light Assisted Heterogeneous Fenton-Like Degradation of Organic Pollutant via α-FeOOH/Mesoporous Carbon Composites”, <em>Environ. Sci. Technol.</em>, 2017, 51, 3993-4000. (IF: 6.653)
 
