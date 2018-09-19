@@ -5,7 +5,9 @@ layout: page
 # About Me
 
 <img src="/images/mmexport1523106791576.jpg" class="floatpic" width="1080" height="1440">
-There is one line of John Keats's poems that I love most:<b> 'beauty is truth, truth beauty,'-that is all ye know on earth, and all ye need to know.</b> To me, beauty lies in the infinity and mystery of biological science, which lets you know what you are capable of and what you are not.
+My name is Yu Han. I am a senior student from the Department of Environmental Science and Engineering, Shanghai Jiaotong University. I have a strong interest about nanocatalysis and heterogeneous catalysis around long-term and sustainable energy and environment themes. I want to figure out and understand the specific reaction process on the surface of the catalysts in the atomic scale.
+
+In my belief, doing research is about being creative to design an experiment or coming up a strategy to solve facing problems. That is the most fascinating thing for me.
 
 ## Research Interests
 
