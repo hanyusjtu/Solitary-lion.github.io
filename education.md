@@ -10,7 +10,9 @@ title: Education
 
   Major GPA: 89.35/100
 
-  Total rank: 3/58
+  First year rank: 6/58
+  Second year rank: 1/58
+  Third year rank: 1/58
   <br>
 Selected core courses: Inorganic and Analytical Chemistry: (92), Organic Chemistry: (96), Probability and Statistic: (95), College Physics 1: (95), College Physics 2: (97), Physical Chemistry: (95), Environmental Mathematical Model: (98), Engineering Fluid Mechanics: (95), Environmental Engineering Principles: (96), Instrumental Analysis: (95), Water Treatment Engineering: (97), Environmental Chemistry: (94)
 
